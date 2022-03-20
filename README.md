@@ -8,11 +8,11 @@ Replace the 2D PoseEstimation model with a more sophisticated model.
 
 ### Results
 #### Turn Right Gesture
-![right](./outputs/output-right_turn.gif)
+![right](./outputs/right_turn.gif)
 #### Stop Gesture
-![stop](./outputs/output-stop.gif)
+![stop](./outputs/stop.gif)
 #### Turn Left Gesture
-![left](./outputs/output-left_turn.gif)
+![left](./outputs/left_turn.gif)
 
 ### Requirements 
 ```
